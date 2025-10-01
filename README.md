@@ -3,9 +3,10 @@ Clinic Scheduling Application
 1. Clone the repo:
     git clone https://github.com/beccmcfadden/Rebecca-McFadden-Code-Assessment-Jane.git
     cd clinic-scheduler
-
-To Run Tests:
-python -m unittest tests/ClinicSchedulerTests.py
+2. Install Dependencies:
+   pip install -r requirements.txt
+4. To Run Tests:
+   python -m unittest tests/ClinicSchedulerTests.py
 
 Assumptions:
 - Data storage: Existing appointments to be stored as a dict
