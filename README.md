@@ -26,7 +26,7 @@ Files:
     - Appointment increments/allowed start times
 
 - ClinicScheduler.py
-    - Handles the user requesting availabe appontments for a specific day
+    - Handles the user requesting available appointments for a specific day
     - Handles user requesting to book an appointment
 
 - GetClinicSchedule.py
