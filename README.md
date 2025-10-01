@@ -16,6 +16,7 @@ Assumptions:
 - No limit on how far in the future appointments can be scheduled
 - Not accounting for multiple timezones: keeping datetime default, my PC is in EST
 - Using freezegun for time-sensitive testing
+- Other note: I was having trouble with git so I committed to main by modifying files but normally I would checkout a branch
 
 Files:
 
