@@ -1,7 +1,7 @@
 Clinic Scheduling Application
 
 1. Clone the repo:
-    git clone https://github.com/your-username/clinic-scheduler.git
+    git clone https://github.com/beccmcfadden/Rebecca-McFadden-Code-Assessment-Jane.git
     cd clinic-scheduler
 
 To Run Tests:
@@ -29,5 +29,6 @@ Files:
 
 - GetClinicSchedule.py
     - Returns the list of the current day's appointments
+
 
 
